@@ -1,3 +1,1 @@
-No commits yet
-nothing to commit
-I am learinng Git and GitHub
+I am learninng Git and GitHub
